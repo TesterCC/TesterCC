@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TesterCC&repo=testercc.github.io&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
+https://github.com/TesterCC/github-readme-stats/blob/master/themes/README.md
 -->
 
 [![TesterCC's github stats](https://github-readme-stats.vercel.app/api?username=TesterCC&theme=gruvbox&show_icons=true&count_private=true)](https://github.com/TesterCC/github-readme-stats)
