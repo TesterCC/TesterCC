@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm SecCodeCat. Welcome to my Github!👋</h1>
+<h1 align="center">Hi, I'm TesterCC. Welcome to my Github!👋</h1>
 
 - 🔭 I’m currently working on Cyber Security Learning ...
 
@@ -25,7 +25,7 @@ https://github.com/TesterCC/github-readme-stats/blob/master/themes/README.md
 ![TesterCC](https://profile-counter.glitch.me/TesterCC/count.svg)
 
 
-[![SecCodeCat's github stats](https://github-readme-stats.vercel.app/api?username=TesterCC&theme=gruvbox&show_icons=true&count_private=true)](https://github.com/TesterCC/github-readme-stats)
+[![TesterCC's github stats](https://github-readme-stats.vercel.app/api?username=TesterCC&theme=gruvbox&show_icons=true&count_private=true)](https://github.com/TesterCC/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TesterCC&hide=html,css,javascript&layout=compact&theme=gruvbox)](https://github.com/TesterCC/github-readme-stats)
